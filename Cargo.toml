@@ -23,7 +23,7 @@ futures-util = "0.3"
 tokio = { version = "1.19", features = ["sync"], default-features = false }
 actix-web = "4"
 actix-session = { version = "0.6", optional = true }
-jsonwebtoken = "8"
+jsonwebtoken = "9"
 serde = { version = "1.0", features = ["derive"] }
 derive_more = "0.99"
 time = "0.3"
